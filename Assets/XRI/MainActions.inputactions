@@ -1,0 +1,34 @@
+{
+    "name": "MainActions",
+    "maps": [
+        {
+            "name": "Next",
+            "id": "5199f030-feca-4e8c-afd3-5f16e555ae75",
+            "actions": [
+                {
+                    "name": "New action",
+                    "type": "Button",
+                    "id": "1623d4c2-5b30-4d8c-acbd-74cfe00dc33c",
+                    "expectedControlType": "",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": false
+                }
+            ],
+            "bindings": [
+                {
+                    "name": "",
+                    "id": "4d64e7c3-7b90-4d69-ac7d-a9e87a764d60",
+                    "path": "<XRController>{RightHand}/{PrimaryButton}",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "New action",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                }
+            ]
+        }
+    ],
+    "controlSchemes": []
+}
